@@ -103,12 +103,12 @@ st.markdown("""streamlit run app.py
 # Lista de Enlaces
 # Sustituye las URLs por tus enlaces reales
 links = [
-    {"title": "🔥 Canal Roa Type Beats", "url": "https://youtube.com"},
-    {"title": "🌌 Canal Juice WRLD Type Beats", "url": "https://youtube.com"},
-    {"title": "💃 Canal Reggaeton Type Beats", "url": "https://youtube.com"},
-    {"title": "🎷 Canal Funk / R&B Type Beats", "url": "https://youtube.com"},
-    {"title": "🛒 Compra / Venta Beats (BeatStars)", "url": "https://beatstars.com"},
-    {"title": "💬 Contacto Directo por Instagram", "url": "https://instagram.com"}
+    {"title": "🔥 Canal Roa Type Beats", "url": "https://www.youtube.com/@Ka1serzz"},
+    {"title": "🌌 Canal Juice WRLD Type Beats", "url": "https://www.youtube.com/@Daikiris"},
+    {"title": "💃 Canal Reggaeton Type Beats", "url": "https://www.youtube.com/@Kairuzzz1"},
+    {"title": "🎷 Canal Funk / R&B Type Beats", "url": "https://www.youtube.com/@0ceuz"},
+    {"title": "🛒 Compra / Venta Beats (BeatStars)", "url": "https://www.beatstars.com/oceuz"},
+    {"title": "💬 Contacto Directo por Instagram", "url": "https://www.instagram.com/oceuz.ve/"}
 ]
 
 # Renderizar botones
